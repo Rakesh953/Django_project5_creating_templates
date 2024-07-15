@@ -1,18 +1,3 @@
-<h1>In this project i learn how to create templates(.html) in the project</h1>
-
-<h2>Process to create templates in the Django Project</h2>
-<h3>create one project</h3>
-<h3>create an application </h3>
-<h3>register the app in setting.py</h3>
-<h3>cretate a folder name template insight the outer_project</h3>
-<h3>create function based view in views.py</h3>
-<h3>set the path in urls.py</h3>
-<h3>Run the project</h3>
-
-
-
-
-
 <h1>In this project I learn how to create templates (.html) in the project</h1>
 <h2>Process to create templates in the Django Project</h2>
 <h3>1. Create one project:</h3>
